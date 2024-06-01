@@ -24,6 +24,9 @@ function App() {
       </div>
       <h1>Taste TMA test</h1>
       <div className="card">
+        <a href="https://t.me/+yewSEsWUqMsxMTVl">关注频道</a>
+      </div>
+      <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}.
         </button>
